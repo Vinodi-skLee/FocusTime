@@ -22,7 +22,7 @@
 
 </br>
 
-## Introduction
+## 📌 Introduction
 
 ### What does this project do?
 The site shows encouraging words at the beginning, motivating people, recording time spent studying using stopwatches, and playing songs that are focused on studying.
@@ -30,21 +30,23 @@ The site shows encouraging words at the beginning, motivating people, recording 
 </br>
 
 ### Why is this project useful?
-There are people who started studying but are less focused after a while (probably the same kind of person I am). So they use timers to check their time, to see how much they have focused on their studies and to gain more concentration.For those people, we have created sites that can easily measure time and help them focus more on their studies.
+There are people who started studying but are less focused after a while (probably the same kind of person I am). So they use timers to check their time, to see how much they have focused on their studies and to gain more concentration. For those people, we have created sites that can easily measure time and help them focus more on their studies.
 
 </br>
 
 ### How do I get started?
 
+
 </br>
 
 ### Where can I get more help, if I need it?
+If you need help, email me at any time at leevinodi@gmail.com ;)
 
 </br>
 
 
-## My Presentation Video (YouTube) Link HERE 👇🏻
+## 📌 My presentation video(YouTube) link is HERE 👇🏻
 
-[Figma Link](https://www.figma.com/file/PWOrxikyK7YTAdcYR2YNtS/kimleean?node-id=0%3A1)
+[YouTube Link](https://www.figma.com/file/PWOrxikyK7YTAdcYR2YNtS/kimleean?node-id=0%3A1)
 
 
