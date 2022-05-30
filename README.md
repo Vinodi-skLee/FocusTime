@@ -1,4 +1,4 @@
-## Focus: Time will help you
+## Focus: Time
 
 ###  💡 Made by 
 
