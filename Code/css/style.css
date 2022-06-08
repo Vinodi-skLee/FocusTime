@@ -37,7 +37,7 @@ body {
     margin-bottom: 20px;
     position: relative;
 }
-.musicTitle {
+.musicText {
     font-size: 1.2rem;
     position: relative;
     align-items: center;
@@ -47,4 +47,127 @@ body {
 .box{
     width: 200px;
     height: 200px;
+}
+.ms-3 {
+    margin-left: 1rem !important;
+}
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+}
+.mb-5 {
+    margin-bottom: 3rem !important;
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.d-flex {
+    display: flex !important;
+}
+#message {
+    overflow-y: auto;
+  background-color: #fff;
+  border: 1px solid #e7eaec;
+  text-align: left;
+  display: block;
+  padding: 10px 20px;
+  position: relative;
+  border-radius: 4px;
+}
+.chat-message {
+    padding: 10px 20px;
+}
+.chat-message-form .form-group {
+    margin-bottom: 0;
+}
+.chat-discussion .chat-message.left .message-avatar {
+    float: left;
+    margin-right: 10px;
+}
+.chat-discussion .chat-message.right .message-avatar {
+    float: right;
+    margin-left: 10px;
+}
+.message-avatar {
+    height: 48px;
+    width: 48px;
+   
+    border-radius: 4px;
+    margin-top: 1px;
+}
+.chat-discussion .chat-message.left .message-date {
+    float: right;
+}
+.chat-discussion .chat-message.right .message-date {
+    float: left;
+}
+.chat-discussion .chat-message.left .message {
+    text-align: left;
+    margin-left: 55px;
+}
+.chat-discussion .chat-message.right .message {
+    text-align: right;
+    margin-right: 55px;
+}
+.chat-discussion {
+    background: beige;
+    padding: 15px;
+    height: 400px;
+    overflow-y: auto;
+}
+.ibox {
+    clear: both;
+    margin-bottom: 25px;
+    margin-top: 0;
+    padding: 0;
+}
+.ibox-content {
+    background-color: #ffffff;
+    color: inherit;
+    padding: 15px 20px 20px 20px;
+    border-color: #e7eaec;
+    border-image: none;
+    border-style: solid solid none;
+    border-width: 1px 0;
+}
+.ibox.collapsed .ibox-content {
+    display: none;
+}
+.message-input {
+    height: 90px !important;
+}
+.message-content {
+    display: block;
+}
+.message-date {
+    font-size: 10px;
+    color: #888888;
 }
