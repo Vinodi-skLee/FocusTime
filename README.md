@@ -13,7 +13,7 @@
 
 | division        | stack                                                                                                                                                                                                                                                                                                       |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Code       | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=black"> |
+| Code       | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=black"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=black"> |
 | Code Management | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=black"> |
 | Formatting      | <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">                                 |
 | Server              | <img src="https://img.shields.io/badge/apache-CC2336?style=for-the-badge&logo=apache&logoColor=black"> |
@@ -36,7 +36,7 @@ There are people who started studying but are less focused after a while (probab
 </br>
 
 ### How do I get started?
-- First, access the website(192.168.0.222/Code/).</br>
+- First, access the website(192.168.0.222/Code/index.php).</br>
 Then you can see the same screen as the picture below. </br>
 <img src="https://user-images.githubusercontent.com/83273272/171096604-69e8d6f1-fed3-4a5b-b049-ac2df955b6c9.png" width="600">
 <img src="https://user-images.githubusercontent.com/83273272/171096619-a5b569ae-1f6c-44f5-ab8a-625f020d4e75.png" width="600"> <br></br>
@@ -56,7 +56,11 @@ I prepared it with a pop song that is not too loud to concentrate on studying! <
 
 - When you press the button, a cute friend will show up with a wonderful saying to help you study! </br>
 
-<img src="https://user-images.githubusercontent.com/83273272/171098480-18748e27-ea64-4c99-8d0f-dcbbaa036b6c.png" width="600">
+<img src="https://user-images.githubusercontent.com/83273272/171098480-18748e27-ea64-4c99-8d0f-dcbbaa036b6c.png" width="600"> <br></br>
+
+- When you need to support while studying, communicate with people through comments!
+
+<img src="https://user-images.githubusercontent.com/83273272/172618262-50293287-3f5f-4bac-9a95-8eb1a712e78e.png" width="600">
 
 
 
