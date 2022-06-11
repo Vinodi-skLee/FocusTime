@@ -54,7 +54,7 @@ I prepared it with a pop song that is not too loud to concentrate on studying! <
 
 <img src="https://user-images.githubusercontent.com/83273272/171097956-b0a5cf78-89e9-48db-a1f2-52ad6ef31fc4.png" width="600"> <br></br>
 
-- When you press the button, a cute friend will show up with a wonderful saying to help you study! </br>
+- When you press the button, a cute friend will show up with a famous saying to help you study! </br>
 
 <img src="https://user-images.githubusercontent.com/83273272/171098480-18748e27-ea64-4c99-8d0f-dcbbaa036b6c.png" width="600"> <br></br>
 
@@ -74,6 +74,6 @@ If you need help, email me at any time at leevinodi@gmail.com ;)
 
 ## 📌 My presentation video(YouTube) link is HERE 👇🏻
 
-[YouTube Link](https://www.figma.com/file/PWOrxikyK7YTAdcYR2YNtS/kimleean?node-id=0%3A1)
+[YouTube Link](https://youtu.be/KGAkDajNzEA)
 
 
