@@ -71,9 +71,3 @@ If you need help, email me at any time at leevinodi@gmail.com ;)
 
 </br>
 
-
-## 📌 My presentation video(YouTube) link is HERE 👇🏻
-
-[YouTube Link](https://youtu.be/KGAkDajNzEA)
-
-
