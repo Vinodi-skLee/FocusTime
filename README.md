@@ -2,7 +2,7 @@
 
 ###  💡 Made by 
 
-| <img src="https://github.com/skLee-HGU.png" width="300" height="270"/> |
+| <img src="https://github.com/Vinodi-skLee.png" width="300" height="270"/> |
 | :-----------------------------------: |
 |            **Sunkyung Lee**           |
 
